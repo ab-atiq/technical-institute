@@ -1,6 +1,5 @@
 # Programming Hero Assignment 8
-
-<h2>Visit my Preview [Live site in netlify] (https://modest-hawking-eefeeb.netlify.app/) </h2>
+Visit my Preview [in netlify](https://modest-hawking-eefeeb.netlify.app/)
 
 Feature of this website----
 
